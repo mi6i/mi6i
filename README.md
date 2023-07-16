@@ -132,5 +132,5 @@
 </div>
 </div>
 
-
+![footer Image](https://cdn.discordapp.com/attachments/1108498551421534319/1130087717099802674/footer.png)
 
