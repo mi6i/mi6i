@@ -13,9 +13,11 @@
   🧊 Actully my real name is ``Abolfazl``. 
 
 
+<div>
+  <h1>Github Stats</h1>
 
-  <h1>Github Status</h1>
-  <p>informatio</p>
+![Top Langs](https://github-readme-stats-itwasonce.vercel.app/api/top-langs/?username=itwasonce&layout=compact)
+</div>
 
 
 
