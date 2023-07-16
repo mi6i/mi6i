@@ -9,6 +9,7 @@
 <div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/996815341902635110)](https://discord.com/users/996815341902635110)
+![](https://komarev.com/ghpvc/?username=itwasonce)
 </div>
 
 ### Hi there 👋
