@@ -13,8 +13,8 @@
   🧊 Actully my real name is ``Abolfazl`` 
 
 
-<div>
-<h1>Stats</h1>
+<div align="center">
+<h1>🔘 Stats</h1>
 
 [![Mega Stats](https://github-readme-stats.vercel.app/api/wakatime?username=itwasonce)](https://github.com/anuraghazra/github-readme-stats)
 
