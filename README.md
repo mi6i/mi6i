@@ -5,11 +5,13 @@
     <a href="https://discordapp.com/users/996815341902635110"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border-radius:15px" alt="Discord"></a>
     <a href="https://instagram.com/per9i"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius:15px" alt="Instagram"></a>
     <a href="mailto:abolfazlgarmanjani@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Gmail" style="border-radius:15px"></a>
+    
+![](https://komarev.com/ghpvc/?username=itwasonce)
 </p>
 <div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/996815341902635110)](https://discord.com/users/996815341902635110)
-![](https://komarev.com/ghpvc/?username=itwasonce)
+
 </div>
 
 ### Hi there 👋
