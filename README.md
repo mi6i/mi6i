@@ -9,7 +9,7 @@
     
 
 </p>
-<div>
+<div align="center">
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/996815341902635110)](https://discord.com/users/996815341902635110)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qpwfvtjj233hudx24xmx6glmny&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
