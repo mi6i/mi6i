@@ -3,9 +3,8 @@
 ![Header Image](https://cdn.discordapp.com/attachments/1108498551421534319/1130056236356874361/FoP1j6-XEAMn9Lswaam.png)
 <p align="center">
     <a href="https://discordapp.com/users/996815341902635110"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" style="border-radius:15px" alt="Discord"></a>
-    <a href="https://instagram.com/hello_im_parsa"><img src="https://img.shields.io/badge/Instagram-323540?style=for-the-badge&logo=instagram&logoColor=5294E2" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.com/invite/RUrks4JqW6"><img src="https://img.shields.io/badge/Discord-323540?style=for-the-badge&logo=discord&logoColor=5294E2" style="border-radius:15px" alt="Discord"></a>
-    <a href="mailto:parsa.hastam20@gmail.com"><img src="https://img.shields.io/badge/Gmail-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt="Gmail" style="border-radius:15px"></a>
+    <a href="https://instagram.com/per9i"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius:15px" alt="Instagram"></a>
+    <a href="mailto:abolfazlgarmanjani@proton.me"><img src="https://img.shields.io/badge/Gmail-323540?style=for-the-badge&logo=gmail&logoColor=5294E2" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
 ### Hi there 👋
