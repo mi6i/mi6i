@@ -12,6 +12,7 @@
 <div>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/996815341902635110)](https://discord.com/users/996815341902635110)
+[!spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31qpwfvtjj233hudx24xmx6glmny&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)
 
 </div>
 
