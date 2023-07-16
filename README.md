@@ -7,6 +7,7 @@
     <a href="mailto:abolfazlgarmanjani@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Gmail" style="border-radius:15px"></a>
 </p>
 <div>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/996815341902635110)](https://discord.com/users/996815341902635110)
 </div>
 
